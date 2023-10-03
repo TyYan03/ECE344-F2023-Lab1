@@ -10,7 +10,7 @@ Screenshot of docker version:
 Screenshot of application running with new title:
 <br>
 
-![image](https://github.com/TyYan03/ECE444-F2023-Lab1/assets/117669511/2680a4ae-8794-4c4f-bab8-0b6f65fee2c0)
+![image](https://github.com/TyYan03/ECE444-F2023-Lab1/assets/117669511/2dc36928-0899-4447-90a6-cf90588092f0)
 
 <h3>Activity 4</h3>
 Screenshot of docker log message:
@@ -21,4 +21,4 @@ Screenshot of docker log message:
 Screenshot of running application on localhost:5000
 <br>
 
-![image](https://github.com/TyYan03/ECE444-F2023-Lab1/assets/117669511/be5430ff-4296-4bc4-8477-f729de6d8fb7)
+![image](https://github.com/TyYan03/ECE444-F2023-Lab1/assets/117669511/c69f6086-da2d-4ae4-9232-f7b6f78d6ca7)
